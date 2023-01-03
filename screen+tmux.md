@@ -196,3 +196,5 @@ yum install tmux
    | ctrl+O | 顺时针旋转 |
 
 [参考](https://blog.csdn.net/gneveek/article/details/82803909)
+[tmux](http://louiszhai.github.io/2017/09/30/tmux/#Tmux-Resurrect)
+[tmux](https://www.kancloud.cn/kancloud/tmux/62464)
